@@ -30,25 +30,25 @@ Managing multiple companies, licenses, contracts, and compliance documents is er
 Below are some screenshots to illustrate the main features. Place these images in your repo and reference them as shown:
 
 - **Login Page**  
-  ![Login Page](Login%20Page.png)
+![Login Page](https://github.com/user-attachments/assets/bf3bb9eb-484e-4f4c-9063-6f8e80ea6a58)
 
 - **Dashboard Overview**  
-  ![Dashboard](Dashboard%20-%20Page.png)
+![Dashboard - Page](https://github.com/user-attachments/assets/2fb04b78-f883-4766-999f-516cd112f529)
 
 - **Company List & Details**  
-  ![Company Page](company%20-%20page.png)
+![company - page](https://github.com/user-attachments/assets/2bd5dcbb-c98a-4cf1-8368-20156afe0e1a)
 
 - **Company Documents**  
-  ![Company Documents](Company%20docs.png)
+![Company docs](https://github.com/user-attachments/assets/8cae1a8f-a8d6-4d24-91a5-a7add6c48036)
 
 - **License Creation Popup**  
-  ![Popup](popup.png)
+![popup](https://github.com/user-attachments/assets/85492124-e82d-4631-93cf-5154ab321cca)
 
 - **Email Notification Example**  
-  ![Email Example](Email%20-%20example.png)
+![Email - example](https://github.com/user-attachments/assets/e5fbb1c2-cb2d-4612-aee5-22ebfa80afe0)
 
 - **Notification Email Settings**  
-  ![Notification Email Settings](Notifcation%20-%20email%20-%20settings)
+![Notifcation - email - settings page](https://github.com/user-attachments/assets/6ff243c2-c6dd-441f-bf01-012649a6cd47)
 
 ## How It Works
 
